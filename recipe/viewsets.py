@@ -29,3 +29,14 @@ class RecipeViewSet(viewsets.ModelViewSet):
         if self.action == 'retrieve':
             return RecipeDetailSerializers
         return RecipeListSerializers
+
+    def get_queryset(self):
+        if self.action == 'retrieve':
+            return Recipe.objects.all()
+
+        query_string = self.request.query_params.get("query_string", False)
+        min_num_of_ingredients = self.request.query_params.get("num", 4)
+        if(not query_string):
+            return Recipe.objects.all()
+        print(query_string)
+        return Recipe.objects.get_recipes(query_string, min_num_of_ingredients)
