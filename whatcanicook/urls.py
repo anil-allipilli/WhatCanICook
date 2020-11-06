@@ -17,7 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 
-from recipe.viewset import IngredientViewSet, GroupViewSet, RecipeViewSet
+from recipe.viewsets import IngredientViewSet, GroupViewSet, RecipeViewSet
 
 router = DefaultRouter()
 router.register('ingredients', IngredientViewSet)
