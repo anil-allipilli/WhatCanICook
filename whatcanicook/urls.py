@@ -18,6 +18,7 @@ from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 
 from recipe.viewsets import IngredientViewSet, GroupViewSet, RecipeViewSet
+from recipe.views import HomePageView
 
 router = DefaultRouter()
 router.register('ingredients', IngredientViewSet)
@@ -28,4 +29,5 @@ router.register('recipes',
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
+    path('', HomePageView.as_view()),
 ]
