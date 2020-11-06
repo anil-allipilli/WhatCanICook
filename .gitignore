@@ -2,3 +2,4 @@ venv/
 *.pyc
 secret_key.txt
 *.sqlite3
+*.json
