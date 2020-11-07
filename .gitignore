@@ -3,3 +3,4 @@ venv/
 secret_key.txt
 *.sqlite3
 *.json
+staticfiles
