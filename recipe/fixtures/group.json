@@ -1,0 +1,36 @@
+[
+  { "model": "recipe.group", "pk": 1, "fields": { "group": "Vegetables" } },
+  {
+    "model": "recipe.group",
+    "pk": 2,
+    "fields": { "group": "Spices and Herbs" }
+  },
+  {
+    "model": "recipe.group",
+    "pk": 3,
+    "fields": { "group": "Cereals and Pulses" }
+  },
+  { "model": "recipe.group", "pk": 4, "fields": { "group": "Meat" } },
+  {
+    "model": "recipe.group",
+    "pk": 5,
+    "fields": { "group": "Dairy Products" }
+  },
+  { "model": "recipe.group", "pk": 6, "fields": { "group": "Fruits" } },
+  { "model": "recipe.group", "pk": 7, "fields": { "group": "Seafood" } },
+  {
+    "model": "recipe.group",
+    "pk": 8,
+    "fields": { "group": "Sugar and Sugar Products" }
+  },
+  {
+    "model": "recipe.group",
+    "pk": 9,
+    "fields": { "group": "Nuts and Oilseeds" }
+  },
+  {
+    "model": "recipe.group",
+    "pk": 10,
+    "fields": { "group": "Other Ingredients" }
+  }
+]

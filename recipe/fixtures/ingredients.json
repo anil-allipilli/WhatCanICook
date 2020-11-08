@@ -1,0 +1,1887 @@
+[
+  {
+    "model": "recipe.ingredient",
+    "pk": 1,
+    "fields": { "name": "Almond Milk", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 2,
+    "fields": { "name": "Red Wine Vinegar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 3,
+    "fields": { "name": "Red Wine", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 4,
+    "fields": { "name": "Margarine", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 5,
+    "fields": { "name": "Soy Milk", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 6,
+    "fields": { "name": "White Wine", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 7,
+    "fields": { "name": "Yeast", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 8,
+    "fields": { "name": "White Pepper", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 9,
+    "fields": { "name": "Rice Vinegar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 10,
+    "fields": { "name": "Sea Salt", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 11,
+    "fields": { "name": "Hoisin Sauce", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 12,
+    "fields": { "name": "Malt Vinegar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 13,
+    "fields": { "name": "Chocolate Chips", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 14,
+    "fields": { "name": "Quinoa", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 15,
+    "fields": { "name": "Rice Flour", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 16,
+    "fields": { "name": "Polenta", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 17,
+    "fields": { "name": "Oyster Sauce", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 18,
+    "fields": { "name": "Guchchi", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 19,
+    "fields": { "name": "Brown Sugar", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 20,
+    "fields": { "name": "Sugar Candy", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 21,
+    "fields": { "name": "Icing Sugar", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 22,
+    "fields": { "name": "Honey", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 23,
+    "fields": { "name": "Jaggery", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 24,
+    "fields": { "name": "Golden Syrup", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 25,
+    "fields": { "name": "Sugar", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 26,
+    "fields": { "name": "Castor Sugar", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 27,
+    "fields": { "name": "Caramel", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 28,
+    "fields": { "name": "Cane Sugar", "group": 8 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 29,
+    "fields": { "name": "Canola Oil", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 30,
+    "fields": { "name": "Chia Seeds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 31,
+    "fields": { "name": "Hazelnut", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 32,
+    "fields": { "name": "Pine Nuts", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 33,
+    "fields": { "name": "Mustard Oil", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 34,
+    "fields": { "name": "Sunflower Seeds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 35,
+    "fields": { "name": "Sesame Oil", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 36,
+    "fields": { "name": "Pistachio", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 37,
+    "fields": { "name": "Olive Oil", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 38,
+    "fields": { "name": "Mustard Seeds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 39,
+    "fields": { "name": "Poppy Seeds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 40,
+    "fields": { "name": "Sesame Seeds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 41,
+    "fields": { "name": "Peanuts", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 42,
+    "fields": { "name": "Chironji", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 43,
+    "fields": { "name": "Cashew Nuts", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 44,
+    "fields": { "name": "Blanched Almonds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 45,
+    "fields": { "name": "Almonds", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 46,
+    "fields": { "name": "Walnuts", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 47,
+    "fields": { "name": "Amaranth", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 48,
+    "fields": { "name": "Flour", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 49,
+    "fields": { "name": "Muesli", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 50,
+    "fields": { "name": "Oats", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 51,
+    "fields": { "name": "Jowar", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 52,
+    "fields": { "name": "Brown Rice", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 53,
+    "fields": { "name": "Arborio Rice", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 54,
+    "fields": { "name": "Water Chestnut flour", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 55,
+    "fields": { "name": "Barnyard Millet", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 56,
+    "fields": { "name": "Tapioca", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 57,
+    "fields": { "name": "Semolina", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 58,
+    "fields": { "name": "Finger Millet", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 59,
+    "fields": { "name": "Puffed Rice", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 60,
+    "fields": { "name": "Buckwheat", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 61,
+    "fields": { "name": "Kidney Beans", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 62,
+    "fields": { "name": "Whole Bengal Gram", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 63,
+    "fields": { "name": "Green Gram", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 64,
+    "fields": { "name": "Cranberry", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 65,
+    "fields": { "name": "Kiwi", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 66,
+    "fields": { "name": "Blueberries", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 67,
+    "fields": { "name": "Mango", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 68,
+    "fields": { "name": "Watermelon", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 69,
+    "fields": { "name": "Tomato", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 70,
+    "fields": { "name": "Strawberry", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 71,
+    "fields": { "name": "All Purpose Flour", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 72,
+    "fields": { "name": "Water Chestnut", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 73,
+    "fields": { "name": "Papaya", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 74,
+    "fields": { "name": "Orange Rind", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 75,
+    "fields": { "name": "Orange", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 76,
+    "fields": { "name": "Olives", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 77,
+    "fields": { "name": "Pear", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 78,
+    "fields": { "name": "Sultana", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 79,
+    "fields": { "name": "Mulberry", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 80,
+    "fields": { "name": "Lychee", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 81,
+    "fields": { "name": "Lemon Juice", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 82,
+    "fields": { "name": "Lemon Rind", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 83,
+    "fields": { "name": "Beef", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 84,
+    "fields": { "name": "Grass Fed Chicken", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 85,
+    "fields": { "name": "Free Range Chicken", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 86,
+    "fields": { "name": "Organic Chicken", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 87,
+    "fields": { "name": "Turkey", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 88,
+    "fields": { "name": "Skinned Chicken", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 89,
+    "fields": { "name": "Pork", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 90,
+    "fields": { "name": "Partridge", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 91,
+    "fields": { "name": "Shrimp", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 92,
+    "fields": { "name": "Tuna Fish", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 93,
+    "fields": { "name": "Shellfish", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 94,
+    "fields": { "name": "Shark", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 95,
+    "fields": { "name": "Hilsa", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 96,
+    "fields": { "name": "Sardines", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 97,
+    "fields": { "name": "Salmon", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 98,
+    "fields": { "name": "Prawns", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 99,
+    "fields": { "name": "Meat Stock", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 100,
+    "fields": { "name": "Keema", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 101,
+    "fields": { "name": "Mutton Liver", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 102,
+    "fields": { "name": "Ham", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 103,
+    "fields": { "name": "Kidney Meat", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 104,
+    "fields": { "name": "Crab", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 105,
+    "fields": { "name": "Chicken Stock", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 106,
+    "fields": { "name": "Chicken Liver", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 107,
+    "fields": { "name": "Chicken", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 108,
+    "fields": { "name": "Chops", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 109,
+    "fields": { "name": "Pomfret", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 110,
+    "fields": { "name": "Perch", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 111,
+    "fields": { "name": "Pearl spot", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 112,
+    "fields": { "name": "Mussels", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 113,
+    "fields": { "name": "Mullet", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 114,
+    "fields": { "name": "Squids", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 115,
+    "fields": { "name": "Haddock", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 116,
+    "fields": { "name": "Flounder", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 117,
+    "fields": { "name": "Fish Stock", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 118,
+    "fields": { "name": "Fish", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 119,
+    "fields": { "name": "Coriander Powder", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 120,
+    "fields": { "name": "Chives", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 121,
+    "fields": { "name": "Galangal", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 122,
+    "fields": { "name": "Tulsi", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 123,
+    "fields": { "name": "Sage", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 124,
+    "fields": { "name": "Rosemary", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 125,
+    "fields": { "name": "Yellow Chillies", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 126,
+    "fields": { "name": "Oregano", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 127,
+    "fields": { "name": "Nasturtium", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 128,
+    "fields": { "name": "Salt", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 129,
+    "fields": { "name": "Mustard Powder", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 130,
+    "fields": { "name": "Paprika", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 131,
+    "fields": { "name": "Mint Leaves", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 132,
+    "fields": { "name": "Marjoram", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 133,
+    "fields": { "name": "Lemongrass", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 134,
+    "fields": { "name": "Red Chilli", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 135,
+    "fields": { "name": "Saffron", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 136,
+    "fields": { "name": "Dried Fenugreek Leaves", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 137,
+    "fields": { "name": "Bok Choy", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 138,
+    "fields": { "name": "Snake Beans", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 139,
+    "fields": { "name": "Sorrel Leaves", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 140,
+    "fields": { "name": "Rocket Leaves", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 141,
+    "fields": { "name": "Drumstick", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 142,
+    "fields": { "name": "Cherry Tomatoes", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 143,
+    "fields": { "name": "Kaffir Lime", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 144,
+    "fields": { "name": "Plantain", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 145,
+    "fields": { "name": "Turnip", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 146,
+    "fields": { "name": "Sweet Potatoes", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 147,
+    "fields": { "name": "Round Gourd", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 148,
+    "fields": { "name": "Ridge Gourd", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 149,
+    "fields": { "name": "Pimiento", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 150,
+    "fields": { "name": "Spinach", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 151,
+    "fields": { "name": "Onion", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 152,
+    "fields": { "name": "Mustard Leaves", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 153,
+    "fields": { "name": "Mushroom", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 154,
+    "fields": { "name": "Radish", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 155,
+    "fields": { "name": "Flat Noodles", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 156,
+    "fields": { "name": "Balsamic Vinegar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 157,
+    "fields": { "name": "Coconut Oil", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 158,
+    "fields": { "name": "Barfi", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 159,
+    "fields": { "name": "Rice Noodles", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 160,
+    "fields": { "name": "Coffee", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 161,
+    "fields": { "name": "Beer", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 162,
+    "fields": { "name": "Chocolate", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 163,
+    "fields": { "name": "Sake", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 164,
+    "fields": { "name": "Vinaigrette", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 165,
+    "fields": { "name": "Vanilla Essence", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 166,
+    "fields": { "name": "Tortilla", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 167,
+    "fields": { "name": "Tomato Puree", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 168,
+    "fields": { "name": "Vegetable Oil", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 169,
+    "fields": { "name": "Tartaric Acid", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 170,
+    "fields": { "name": "Soya Sauce", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 171,
+    "fields": { "name": "Vinegar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 172,
+    "fields": { "name": "Sharbat", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 173,
+    "fields": { "name": "Walnuts", "group": 9 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 174,
+    "fields": { "name": "Whole Brown Lentils", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 175,
+    "fields": { "name": "Husked Black Gram", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 176,
+    "fields": { "name": "Husked Green Gram", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 177,
+    "fields": { "name": "Couscous", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 178,
+    "fields": { "name": "Cornmeal", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 179,
+    "fields": { "name": "Pressed Rice", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 180,
+    "fields": { "name": "Rice", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 181,
+    "fields": { "name": "Breadcrumbs", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 182,
+    "fields": { "name": "Bread", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 183,
+    "fields": { "name": "Black-eyed Beans", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 184,
+    "fields": { "name": "Black Gram", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 185,
+    "fields": { "name": "Black Beans", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 186,
+    "fields": { "name": "Gram flour", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 187,
+    "fields": { "name": "Bengal Gram (Split)", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 188,
+    "fields": { "name": "Chickpeas", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 189,
+    "fields": { "name": "Basmati Rice", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 190,
+    "fields": { "name": "Barley", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 191,
+    "fields": { "name": "Pearl Millet", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 192,
+    "fields": { "name": "Fish Fillet", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 193,
+    "fields": { "name": "Cuttle fish", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 194,
+    "fields": { "name": "Cod", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 195,
+    "fields": { "name": "Clams", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 196,
+    "fields": { "name": "Cat fish", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 197,
+    "fields": { "name": "Mackerel", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 198,
+    "fields": { "name": "Anchovies", "group": 7 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 199,
+    "fields": { "name": "Lamb Meat", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 200,
+    "fields": { "name": "Quail", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 201,
+    "fields": { "name": "Mutton", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 202,
+    "fields": { "name": "Bacon", "group": 4 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 203,
+    "fields": { "name": "Kashmiri Mirch", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 204,
+    "fields": { "name": "Onion Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 205,
+    "fields": { "name": "Mace", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 206,
+    "fields": { "name": "Nutmeg", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 207,
+    "fields": { "name": "Herbs", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 208,
+    "fields": { "name": "Thyme", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 209,
+    "fields": { "name": "Turmeric", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 210,
+    "fields": { "name": "Garam Masala", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 211,
+    "fields": { "name": "Five Spice Powder", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 212,
+    "fields": { "name": "Fenugreek Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 213,
+    "fields": { "name": "Fennel", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 214,
+    "fields": { "name": "Green Cardamom", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 215,
+    "fields": { "name": "Dry Ginger Powder", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 216,
+    "fields": { "name": "Dill", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 217,
+    "fields": { "name": "Curry Leaves", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 218,
+    "fields": { "name": "Cumin Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 219,
+    "fields": { "name": "Coriander Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 220,
+    "fields": { "name": "Coriander Leaves", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 221,
+    "fields": { "name": "Vermicelli", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 222,
+    "fields": { "name": "Sev", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 223,
+    "fields": { "name": "Rum", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 224,
+    "fields": { "name": "Roux", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 225,
+    "fields": { "name": "Petha", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 226,
+    "fields": { "name": "Pasta", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 227,
+    "fields": { "name": "Papad", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 228,
+    "fields": { "name": "Paan", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 229,
+    "fields": { "name": "Meringue", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 230,
+    "fields": { "name": "Mayonnaise", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 231,
+    "fields": { "name": "Melon Seeds", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 232,
+    "fields": { "name": "Lotus Seeds", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 233,
+    "fields": { "name": "Lemon", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 234,
+    "fields": { "name": "Raisins", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 235,
+    "fields": { "name": "Jamun", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 236,
+    "fields": { "name": "Tamarind", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 237,
+    "fields": { "name": "Grapefruit", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 238,
+    "fields": { "name": "Indian Gooseberry", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 239,
+    "fields": { "name": "Dried Fruit", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 240,
+    "fields": { "name": "Dates", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 241,
+    "fields": { "name": "Vetiver", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 242,
+    "fields": { "name": "Screw Pine", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 243,
+    "fields": { "name": "Jus", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 244,
+    "fields": { "name": "Jelly", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 245,
+    "fields": { "name": "Rose Water", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 246,
+    "fields": { "name": "Gold Leaves", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 247,
+    "fields": { "name": "Custard Apple", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 248,
+    "fields": { "name": "Currant", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 249,
+    "fields": { "name": "Cooking Apples", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 250,
+    "fields": { "name": "Coconut", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 251,
+    "fields": { "name": "Cherry", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 252,
+    "fields": { "name": "Cape Gooseberry", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 253,
+    "fields": { "name": "Banana", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 254,
+    "fields": { "name": "Peach", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 255,
+    "fields": { "name": "Apricots", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 256,
+    "fields": { "name": "Apples", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 257,
+    "fields": { "name": "Whole Wheat Flour", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 258,
+    "fields": { "name": "Pigeon Pea", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 259,
+    "fields": { "name": "Bean Sprouts", "group": 3 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 260,
+    "fields": { "name": "Cloves", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 261,
+    "fields": { "name": "Cinnamon", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 262,
+    "fields": { "name": "Star Anise", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 263,
+    "fields": { "name": "Cayenne", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 264,
+    "fields": { "name": "Caraway Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 265,
+    "fields": { "name": "Cajun Spices", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 266,
+    "fields": { "name": "Rock Salt", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 267,
+    "fields": { "name": "Black Pepper", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 268,
+    "fields": { "name": "Black Cumin", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 269,
+    "fields": { "name": "Bay Leaf", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 270,
+    "fields": { "name": "Basil", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 271,
+    "fields": { "name": "Black Cardamom", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 272,
+    "fields": { "name": "Asafoetida", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 273,
+    "fields": { "name": "Aniseed", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 274,
+    "fields": { "name": "Raw Mango Powder", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 275,
+    "fields": { "name": "Allspice", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 276,
+    "fields": { "name": "Carom Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 277,
+    "fields": { "name": "Parsley", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 278,
+    "fields": { "name": "Glycerine", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 279,
+    "fields": { "name": "Gelatin", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 280,
+    "fields": { "name": "Fish Sauce", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 281,
+    "fields": { "name": "Desiccated Coconut", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 282,
+    "fields": { "name": "Cranberry Sauce", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 283,
+    "fields": { "name": "Cornflour", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 284,
+    "fields": { "name": "Cognac", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 285,
+    "fields": { "name": "Coconut Water", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 286,
+    "fields": { "name": "Coconut Milk", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 287,
+    "fields": { "name": "Cocoa", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 288,
+    "fields": { "name": "Tea", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 289,
+    "fields": { "name": "Brown Sauce", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 290,
+    "fields": { "name": "Baking Soda", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 291,
+    "fields": { "name": "Tofu", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 292,
+    "fields": { "name": "Baking Powder", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 293,
+    "fields": { "name": "Arrowroot", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 294,
+    "fields": { "name": "Egg", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 295,
+    "fields": { "name": "Alum", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 296,
+    "fields": { "name": "Figs", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 297,
+    "fields": { "name": "Grapes", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 298,
+    "fields": { "name": "Pomegranate", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 299,
+    "fields": { "name": "Pineapple", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 300,
+    "fields": { "name": "Guava", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 301,
+    "fields": { "name": "Plum", "group": 6 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 302,
+    "fields": { "name": "Acacia", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 303,
+    "fields": { "name": "Carom Seeds", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 304,
+    "fields": { "name": "Parsley", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 305,
+    "fields": { "name": "Acacia", "group": 2 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 306,
+    "fields": { "name": "Shallots", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 307,
+    "fields": { "name": "Lettuce", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 308,
+    "fields": { "name": "Leek", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 309,
+    "fields": { "name": "Pumpkin", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 310,
+    "fields": { "name": "Yam", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 311,
+    "fields": { "name": "Jalapeno", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 312,
+    "fields": { "name": "Jackfruit", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 313,
+    "fields": { "name": "Horseradish", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 314,
+    "fields": { "name": "Spring Onion", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 315,
+    "fields": { "name": "Green Peas", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 316,
+    "fields": { "name": "Green Chillies", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 317,
+    "fields": { "name": "Cluster Beans", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 318,
+    "fields": { "name": "Gherkins", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 319,
+    "fields": { "name": "Garlic", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 320,
+    "fields": { "name": "French Beans", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 321,
+    "fields": { "name": "Fenugreek", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 322,
+    "fields": { "name": "Cucumber", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 323,
+    "fields": { "name": "Zucchini", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 324,
+    "fields": { "name": "Marzipan", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 325,
+    "fields": { "name": "Ajinomoto", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 326,
+    "fields": { "name": "Agar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 327,
+    "fields": { "name": "Agar", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 328,
+    "fields": { "name": "Ajinomoto", "group": 10 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 329,
+    "fields": { "name": "Corn", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 330,
+    "fields": { "name": "Shiitake Mushroom", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 331,
+    "fields": { "name": "Celery", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 332,
+    "fields": { "name": "Cauliflower", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 333,
+    "fields": { "name": "Carrot", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 334,
+    "fields": { "name": "Capsicum", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 335,
+    "fields": { "name": "Capers", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 336,
+    "fields": { "name": "Broccoli", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 337,
+    "fields": { "name": "Broad Beans", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 338,
+    "fields": { "name": "Bottle Gourd", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 339,
+    "fields": { "name": "Bitter Gourd", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 340,
+    "fields": { "name": "Lady Finger", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 341,
+    "fields": { "name": "Lotus Stem", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 342,
+    "fields": { "name": "Bell Pepper", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 343,
+    "fields": { "name": "Beetroot", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 344,
+    "fields": { "name": "Pigweed", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 345,
+    "fields": { "name": "Cabbage", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 346,
+    "fields": { "name": "Bamboo Shoot", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 347,
+    "fields": { "name": "Baby Corn", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 348,
+    "fields": { "name": "Avocado", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 349,
+    "fields": { "name": "Eggplant", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 350,
+    "fields": { "name": "Asparagus", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 351,
+    "fields": { "name": "Ash Gourd", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 352,
+    "fields": { "name": "Artichoke", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 353,
+    "fields": { "name": "Colocasia", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 354,
+    "fields": { "name": "Potatoes", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 355,
+    "fields": { "name": "Ginger", "group": 1 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 356,
+    "fields": { "name": "Gruyere Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 357,
+    "fields": { "name": "Gouda Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 358,
+    "fields": { "name": "Feta Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 359,
+    "fields": { "name": "Milk", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 360,
+    "fields": { "name": "Brie Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 361,
+    "fields": { "name": "Cream Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 362,
+    "fields": { "name": "Ricotta Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 363,
+    "fields": { "name": "Parmesan Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 364,
+    "fields": { "name": "Blue Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 365,
+    "fields": { "name": "Cheddar Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 366,
+    "fields": { "name": "Mascarpone Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 367,
+    "fields": { "name": "Cream", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 368,
+    "fields": { "name": "Provolone Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 369,
+    "fields": { "name": "Mozzarella Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 370,
+    "fields": { "name": "Khoya", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 371,
+    "fields": { "name": "Hung Curd", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 372,
+    "fields": { "name": "Yogurt", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 373,
+    "fields": { "name": "Cottage Cheese", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 374,
+    "fields": { "name": "Condensed Milk", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 375,
+    "fields": { "name": "Clarified Butter", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 376,
+    "fields": { "name": "Buttermilk", "group": 5 }
+  },
+  {
+    "model": "recipe.ingredient",
+    "pk": 377,
+    "fields": { "name": "Butter", "group": 5 }
+  }
+]
