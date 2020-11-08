@@ -16,9 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
+from django.views.generic import TemplateView
 
 from recipe.viewsets import IngredientViewSet, GroupViewSet, RecipeViewSet
-from recipe.views import HomePageView
+
 
 router = DefaultRouter()
 router.register('ingredients', IngredientViewSet)
@@ -29,5 +30,6 @@ router.register('recipes',
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
-    path('', HomePageView.as_view()),
+    path('', TemplateView.as_view(template_name="index.html")),
+
 ]
