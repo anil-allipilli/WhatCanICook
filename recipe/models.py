@@ -3,7 +3,7 @@ from django.db.models import Count
 
 
 class Group(models.Model):
-    group = models.CharField(max_length=16)
+    group = models.CharField(max_length=32)
 
     def __str__(self):
         return self.group
